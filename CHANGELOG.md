@@ -1,9 +1,16 @@
+<a name="2.4.3"></a>
+# [2.4.3](https://github.com/jeduan/cordova-plugin-facebook4/releases/tag/v2.4.3)
+
+## Bug fixes
+
+* **Browser:** Fixed more browser issues, variable wasn't surrounded in quotations
+
 <a name="2.4.2"></a>
 # [2.4.2](https://github.com/jeduan/cordova-plugin-facebook4/releases/tag/v2.4.2)
 
 ## Bug fixes
 
-* **Android:** Fixed browser issues
+* **Browser:** Fixed browser issues
 
 <a name="2.4.0"></a>
 # [2.4.0](https://github.com/jeduan/cordova-plugin-facebook4/releases/tag/v2.4.0)
